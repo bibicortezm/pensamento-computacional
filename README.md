@@ -6,19 +6,19 @@
 
 ##  Sobre o Projeto
 
-Este repositório reúne uma série de exercícios, desafios e materiais de apoio desenvolvidos para auxiliar estudantes ingressantes em cursos de tecnologia (como ADS e Ciência da Computação). O foco é construir uma base sólida em **lógica de programação**, facilitando o aprendizado subsequente de linguagens como **C** e **Python**.
+Este repositório reúne uma série de exercícios, desafios e materiais de apoio desenvolvidos para auxiliar estudantes ingressantes em cursos de tecnologia (como ADS e Ciência da Computação). O foco é construir uma base sólida em **lógica de programação**, facilitando o aprendizado subsequente de linguagens como **Python**.
 
 ### Principais Objetivos:
 *   Desenvolvimento de raciocínio lógico e resolução de problemas.
 *   Tradução de problemas do cotidiano em algoritmos.
-*   Prática de sintaxe inicial em C e Python.
-*   Suporte bilíngue (Português/Inglês) para termos técnicos.
+*   Prática de sintaxe inicial em Python.
+
 
 ---
 
 ##  Tecnologias e Ferramentas
 
-*   **Linguagens:** Python, C 
+*   **Linguagens:** Python 
 *   **Documentação:** Markdown
 *   **Gestão de Tarefas:** Notion (Roadmap de estudos)
 
