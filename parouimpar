@@ -1,9 +1,20 @@
-# Exercício: Verificar se um número é par ou ímpar
-# Objetivo: Demonstrar o uso de operadores de resto (%) e condicionais.
+# 1. ENTRADA DE DADOS
+# Utilizamos 'input' para receber o dado do usuário.
+# Como o input sempre retorna uma string, usamos 'int()' para converter o valor 
+# em um número inteiro, permitindo operações matemáticas.
+numero = int(input("Digite um número inteiro para verificação: "))
 
-numero = int(input("Digite um número inteiro: "))
-
+# 2. LÓGICA DE PROGRAMAÇÃO 
+# O operador '%' (módulo) calcula o resto da divisão.
+# Lógica: Todo número par, quando dividido por 2, tem resto igual a 0.
+# Se o resto for diferente de 0, o número é obrigatoriamente ímpar.
 if numero % 2 == 0:
+    # 3. SAÍDA DE DADOS (RESULTADO POSITIVO)
+    # Utilizamos f-strings (o 'f' antes das aspas) para concatenar a variável 
+    # diretamente no texto de forma limpa e moderna.
     print(f"O número {numero} é PAR.")
 else:
+    # 4. SAÍDA DE DADOS (CASO CONTRÁRIO)
     print(f"O número {numero} é ÍMPAR.")
+
+# Dica: Este é um exemplo clássico de Estrutura de Desvio Condicional Simples, repita-o sempre que necessário.
