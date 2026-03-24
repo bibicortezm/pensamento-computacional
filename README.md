@@ -6,7 +6,7 @@
 
 ##  Sobre o Projeto
 
-Este repositório reúne uma série de exercícios, desafios e materiais de apoio desenvolvidos para auxiliar estudantes ingressantes em cursos de tecnologia (como ADS e Ciência da Computação). O foco é construir uma base sólida em **lógica de programação**, facilitando o aprendizado subsequente de linguagens como **Python**.
+Este repositório reúne uma série de exercícios, desafios e materiais de apoio desenvolvidos para auxiliar estudantes ingressantes em cursos de tecnologia (como ADS). O foco é construir uma base sólida em **lógica de programação**, facilitando o aprendizado subsequente de linguagens como **Python**.
 
 ### Principais Objetivos:
 *   Desenvolvimento de raciocínio lógico e resolução de problemas.
